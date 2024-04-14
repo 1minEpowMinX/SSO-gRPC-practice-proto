@@ -1,4 +1,4 @@
-module github.com/1minepowminx/SSO-gRPC-practice
+module github.com/1minepowminx/SSO-gRPC-practice-proto
 
 go 1.22.2
 
